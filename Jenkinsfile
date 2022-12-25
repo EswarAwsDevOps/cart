@@ -1,3 +1,3 @@
-@Librabry('roboshop')
+@Library('roboshop')
 
 log()
